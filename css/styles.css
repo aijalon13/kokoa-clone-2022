@@ -6,6 +6,9 @@
 
 @import "components/nav-bar.css";
 @import "components/screen-header.css";
+@import "components/screens/friends.css";
+@import "components/user-component.css";
+
 .welcome-header {
   margin: 90px 0px;
   text-align: center;
@@ -66,5 +69,7 @@
 }
 
 body {
+  color: #2e363e;
+
   height: 1000vh;
 }
