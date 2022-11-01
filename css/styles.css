@@ -5,8 +5,8 @@
 @import "status-bar.css";
 
 @import "components/nav-bar.css";
-
-.Welcome-header {
+@import "components/screen-header.css";
+.welcome-header {
   margin: 90px 0px;
   text-align: center;
   display: flex;
